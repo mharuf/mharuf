@@ -12,7 +12,7 @@
 
 <h2>📚 Certifications</h2>
 
- - [Google Cybersecurity Certificate]()
+ - [Google Cybersecurity Certificate](https://github.com/mharuf/Google-Certificate)
 
 <h2> 🤳 Connect with me:</h2>
 

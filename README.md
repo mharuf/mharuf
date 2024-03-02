@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Mohammed Mharuf Miah
 
-<!--
-**mharuf/mharuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Programming Languages</b>
+  - [Updating files with Python algorithm]()
+  - [Applying filters to SQL queries]()
+- <b>Command Line Interfaces</b>
+  - [Updating file permissions in Linux]()
+- <b>Cybersecurity Tasks</b>
+  - [Internal Audit]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚 Certifications</h2>
+
+ - [Google Cybersecurity Certificate]()
+
+<h2> 🤳 Connect with me:</h2>
+

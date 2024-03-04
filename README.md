@@ -8,7 +8,7 @@
 - <b>Command Line Interfaces</b>
   - [Updating file permissions in Linux](https://github.com/mharuf/Updating-file-permissions-in-Linux)
 - <b>Cybersecurity Tasks</b>
-  - [Internal Audit]()
+  - [Internal Audit](https://github.com/mharuf/Internal-audit)
 
 <h2>📚 Certifications</h2>
 

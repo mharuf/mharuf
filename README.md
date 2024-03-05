@@ -14,5 +14,6 @@
 
  - [Google Cybersecurity Certificate](https://github.com/mharuf/Google-Certificate)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🔗Linkedin profile</h2>
 
+[Visit profile](https://www.linkedin.com/in/mohammed-mharuf-miah/)

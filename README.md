@@ -13,6 +13,7 @@
 <h2>📚 Certifications</h2>
 
  - [Google Cybersecurity Certificate](https://github.com/mharuf/Google-Certificate)
+ - [Microsoft Windows Defender and Firewall Certificate](https://github.com/mharuf/Microsoft-Windows-Defender-and-Firewall-Certificate)
 
 <h2>🔗Linkedin profile</h2>
 

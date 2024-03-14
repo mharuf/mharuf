@@ -7,6 +7,8 @@
   - [Applying filters to SQL queries](https://github.com/mharuf/Applying-filters-to-SQL-queries)
 - <b>Command Line Interfaces</b>
   - [Updating file permissions in Linux](https://github.com/mharuf/Updating-file-permissions-in-Linux)
+- <b>Microsoft Windows Defender and Firewall</b>
+  - [Updating and configuring Microsoft Windows Defender](https://github.com/mharuf/Updating-and-configuring-Windows-Defender-Antivirus)
 - <b>Cybersecurity Tasks</b>
   - [Internal Audit](https://github.com/mharuf/Internal-audit)
 

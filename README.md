@@ -10,6 +10,8 @@
 - <b>Microsoft Windows Defender and Firewall</b>
   - [Updating and configuring Microsoft Windows Defender](https://github.com/mharuf/Updating-and-configuring-Windows-Defender-Antivirus)
   - [Enabling and configuring Microsoft Windows Firewall](https://github.com/mharuf/Enabling-and-configuring-Windows-Firewall)
+- <b>Network protocol analysis</b>
+  - [Capturing, analysing and decrypting network traffic with Wireshark](https://github.com/mharuf/Capturing-and-analysing-network-traffic-with-Wireshark)
 - <b>Cybersecurity Tasks</b>
   - [Internal Audit](https://github.com/mharuf/Internal-audit)
 

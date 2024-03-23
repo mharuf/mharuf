@@ -19,6 +19,7 @@
 
  - [Google Cybersecurity Certificate](https://github.com/mharuf/Google-Certificate)
  - [Microsoft Windows Defender and Firewall Certificate](https://github.com/mharuf/Microsoft-Windows-Defender-and-Firewall-Certificate)
+ - [Network protocol analysis with Wireshark certificate](https://github.com/mharuf/Network-protocol-analysis-with-Wireshark-certificate)
 
 <h2>🔗Linkedin profile</h2>
 

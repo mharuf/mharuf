@@ -7,9 +7,10 @@
   - [Applying filters to SQL queries](https://github.com/mharuf/Applying-filters-to-SQL-queries)
 - <b>Command Line Interfaces</b>
   - [Updating file permissions in Linux](https://github.com/mharuf/Updating-file-permissions-in-Linux)
-- <b>Microsoft Windows Defender and Firewall</b>
+- <b>Microsoft tools</b>
   - [Updating and configuring Microsoft Windows Defender](https://github.com/mharuf/Updating-and-configuring-Windows-Defender-Antivirus)
   - [Enabling and configuring Microsoft Windows Firewall](https://github.com/mharuf/Enabling-and-configuring-Windows-Firewall)
+  - [Configuring groups and performing basic administrative tasks with Microsoft Active Directory](https://github.com/mharuf/Completing-tasks-with-Microsoft-Active-Directory)
 - <b>Network protocol analysis</b>
   - [Capturing, analysing and decrypting network traffic with Wireshark](https://github.com/mharuf/Capturing-and-analysing-network-traffic-with-Wireshark)
 - <b>Cybersecurity Tasks</b>

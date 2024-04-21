@@ -13,6 +13,8 @@
   - [Configuring groups and performing basic administrative tasks with Microsoft Active Directory](https://github.com/mharuf/Completing-tasks-with-Microsoft-Active-Directory)
 - <b>Network protocol analysis</b>
   - [Capturing, analysing and decrypting network traffic with Wireshark](https://github.com/mharuf/Capturing-and-analysing-network-traffic-with-Wireshark)
+- <b>Splunk</b>
+  - [Performing a query with Splunk](https://github.com/mharuf/Performing-a-query-with-Splunk)
 - <b>Cybersecurity Tasks</b>
   - [Internal Audit](https://github.com/mharuf/Internal-audit)
 
